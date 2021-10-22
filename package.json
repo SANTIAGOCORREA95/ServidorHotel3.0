@@ -1,0 +1,21 @@
+{
+  "name": "servidorhotel",
+  "version": "1.0.0",
+  "description": "API REST",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "Santiago Correa Muñoz",
+  "license": "ISC"
+}
